@@ -57,6 +57,7 @@ class _SwitchWidgetState extends State<SwitchWidget> {
             AnimatedContainer(
               duration: const Duration(milliseconds: 300),
               height: 20,
+
               width: 20,
               decoration: const BoxDecoration(
                 shape: BoxShape.circle,
